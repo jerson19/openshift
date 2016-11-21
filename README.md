@@ -1,2 +1,1 @@
-# openshift
-prueba en openshift
+# prueba_2
